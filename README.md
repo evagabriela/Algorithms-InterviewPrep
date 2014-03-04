@@ -1,17 +1,25 @@
-Introduction:
+Algorithms and Interview Prep Meetup
+=====================================
 
-The first step towards an understanding of why the study and knowledge of algorithms are so important is to define exactly what we mean by an algorithm. According to the popular algorithms textbook Introduction to Algorithms (Second Edition by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein), "an algorithm is any well-defined computational procedure that takes some value, or set of values, as input and produces some value, or set of values as output." In other words, algorithms are like road maps for accomplishing a given, well-defined task. So, a chunk of code that calculates the terms of the Fibonacci sequence is an implementation of a particular algorithm. Even a simple function for adding two numbers is an algorithm in a sense, but just a simple one. 
+This repository powers the Algorithm and Interview Prep meetup guideline, resources and extra information.  
 
-Some algorithms, like those that compute the Fibonacci sequences, are intuitive and may be innately embedded into our logical thinking and problem solving skills. However, for most of us, complex algorithms are best studied so we can use them as building blocks for more efficient logical problem solving in the future. In fact, you may be surprised to learn just how many complex algorithms people use every day when they check their e-mail or listen to music on their computers. This article will introduce some basic ideas related to the analysis of algorithms, and then put these into practice with a few examples illustrating why it is important to know about algorithms. 
+The Algorithms and Interview Prep is an event where people come to learn more about algorithms, practive whiteboarding and behavioral interview questions.  
 
-There are many ways to represent an algorithm and the programming language code itself is one of them. However, quite often it is much better or easier not to solve entire problem at once but just an outline and then fill the blanks as you go.
+The goal is for the attendees to learn more about algorithms and practice how to successfully approach technical interviews.
 
-* My personal favorite here is pseudo code, and only to cover a general abstract outline of the algorithm in question - it's ridiculous to get into details with pseudocode, that's what real code is for.
+How do you run an Algorithms and Interview Prep meetup?
+-------------------------------------------------------
 
-* But real code can be used for the outline. For example, TDD people like to design the algorithm as they code, and since they can't solve it all at once either, they design an outline of the program execution in real code, and use mock objects (or functions, methods...) as blanks to be filled in later.
+1. Find a venue that preferably has different rooms where can accomodate the algorithm's study group, other rooms for the white boarding groups which can be divided by different languages and other for the behavioral or pairing programming.
+2.Pick an appropriate date and time. We went for a Monday late afternoons from 6:30-9:00pm, whith free snacks or dinner provided by the host company.
+3.Advertise the event.  Specify in the description what topic the Algorithm study group will cover through videos or discussions and the description of your meetup.  Here's how we advertised it:  [http://www.meetup.com/Women-Who-Code-SF/events/168234442/]
+4. Start off the event by having everyone introducing themselves if is a small group or otherwise introduce the event and the company who is hosting.  Typically companies have a representative who will share more information about the company. 
+5. To kick off the event, separate the attendees by groups depending on their interest and languages for the whiteboarding. 
+6. Share with the whiteboarding group, the link for optional exercises or resources that they can use to practice.  Here is a webste we developed:  [http://meetupresources.herokuapp.com/index.html]
 
-* UML Activity diagrams seem to be a modern incarnation of old-style flowcharts with added notation for the new stuff like polymorphism and multithreading. I can't really say how useful this is, since I didn't really use them much - I'm just mentioning it for completeness.
+We are welcoming ideas to improve our event. Please send us an email to one of the organizers:
++ Gaby Zamudio - gabriela.osu@gmail.com 
++ Chantal Emmanuel - cemmanuel1@gmail.com
++ Zoe Madden-Wood - cemmanuel1@gmail.com
 
-* Also, if you are basing your algorithm on switching between states, then a state diagram is quite helpful.
 
-* Generally, any mean you have to simply sketch the idea behind a certain algorithm is a good way to go.
