@@ -1,9 +1,9 @@
 Algorithms and Interview Prep Meetup
 =====================================
 
-This repository powers the Algorithm and Interview Prep meetup guidelines, resources and extra information.  
+This repository powers the Algorithm and Interview Prep meetup guidelines, resources and information.  
 
-The Algorithms and Interview Prep is an event where people come to learn more about algorithms, practive whiteboarding and behavioral interview questions.  
+The Algorithms and Interview Prep is an event where people come to learn more about algorithms, practice whiteboarding and behavioral interview questions.  
 
 The goal is for the attendees to learn more about algorithms and practice how to successfully approached technical interviews.
 
